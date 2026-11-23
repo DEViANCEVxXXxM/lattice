@@ -1,0 +1,9 @@
+{
+  "name": "lattice-atomic-structure-observatory",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/lattice-model.test.mjs"
+  }
+}
