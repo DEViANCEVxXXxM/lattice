@@ -2,6 +2,10 @@
 
 A standalone interactive crystallography study, using the DEVIANCE / ATELIER design system and Three.js. The project does **not** navigate to, depend upon, or link to the author's other interactive scenes.
 
+## Try it
+
+Open on [GitHub Pages](https://deviancevxxxxm.github.io/lattice/)
+
 ## Run / publish
 
 Upload the contents of this repository to GitHub and enable **Settings → Pages → Deploy from a branch → main / (root)**. Your site will load directly from `index.html`.
